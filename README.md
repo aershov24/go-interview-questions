@@ -7,7 +7,7 @@ Go hits the very sweet spot of performance and speedy development. It takes some
 
 <p align="center">
   <a href="https://www.fullstack.cafe">
-  <img src="https://user-images.githubusercontent.com/13550565/73042643-e53caa80-3e9c-11ea-9019-f70c2158c249.png">
+  <img src="https://user-images.githubusercontent.com/13550565/73042889-e7533900-3e9d-11ea-94f2-b4a9e87cc018.png">
   </a>
 </p>
 
